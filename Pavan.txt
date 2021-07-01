@@ -1,1 +1,4 @@
-Hi This Pavan Mishra iam creating a code for futher analysis and devlopement
+Adding about git. git is a devops tool used for version control system at the time for code changes in environment for tracking of the code for role and disaster recovery
+This Pavan Mishra iam creating a test code for futher analysis and devlopement
+This Pavan Mishra iam creating a test code for futher analysis and devlopement
+Adding about git. git is a devops tool used for version control system at the time for code changes in environment for tracking of the code for role and disaster recovery
